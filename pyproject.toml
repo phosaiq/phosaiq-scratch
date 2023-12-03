@@ -13,6 +13,8 @@ dwave-ocean-sdk = "^6.7.0"
 jupyter = "^1.0.0"
 notebook = "^7.0.6"
 tqdm = "^4.66.1"
+opencv-python = "^4.8.1.78"
+matplotlib = "^3.8.2"
 
 
 [tool.poetry.group.dev.dependencies]
